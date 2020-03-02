@@ -5,6 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HomeComponent } from './modules/home/home.component';
 
+import * as Agency from '../assets/js/agency.min.js'
 import * as $ from 'jquery';
 
 @NgModule({
