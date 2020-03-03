@@ -31,9 +31,6 @@
               "../DMCI-client/node_modules/jquery/dist/jquery.min.js",
               "../DMCI-client/node_modules/bootstrap/dist/js/bootstrap.min.js",
               "../DMCI-client/node_modules/popper.js/dist/esm/popper.js",
-              "../DMCI-client/src/assets/js/agency.js",
-              "../DMCI-client/src/assets/js/contact_me.js",
-              "../DMCI-client/src/assets/js/jqBootstrapValidation.js"
             ]
           },
           "configurations": {
